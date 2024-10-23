@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Class work</string>
+    <string name="title">ANDROID APPLICATION</string>
+    <string name="f_dgt">Enter First Digit</string>
+    <string name="s_dgt">Enter Second Digit</string>
+    <string name="bn_add">ADD</string>
+    <string name="ans">The Sum Is =</string>
+</resources>
